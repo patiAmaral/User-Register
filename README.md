@@ -1,4 +1,4 @@
-🎉 Projeto Registro de Usuários 🚀
+🎉 Projeto REACT Registro de Usuários 🚀
 
 Bem-vindo ao Registro de Usuários! 😃 Este é um projeto super bacana desenvolvido com React e Java para facilitar o registro e gerenciamento de usuários. 🧑‍💻👩‍💻
 
